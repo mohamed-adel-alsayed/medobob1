@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Adel</h1>
 <h3 align="center">A normal guy who fell in love with programming</h3>
 
-<div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=676DF7&lines=Hello+my+name+is+Mohamed+Adel;I'm+in+love+with+programming;I+started+programming+3+years+ago;I+have+experience+in+mant+programming+languages;Such+as+C%2C+C%2B%2B%2C+JavaScript%2C+Java;But+I+mostly+experienced+in+C%2B%2B;This+is+Mohamed+Adel+from+the+outer+space)](https://git.io/typing-svg) </div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medobob1&label=Profile%20views&color=0e75b6&style=flat" alt="medobob1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medobob1" alt="medobob1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=676DF7&lines=Hello+my+name+is+Mohamed+Adel;I'm+in+love+with+programming;I+started+programming+3+years+ago;I+have+experience+in+mant+programming+languages;Such+as+C%2C+C%2B%2B%2C+JavaScript%2C+Java;But+I+mostly+experienced+in+C%2B%2B;This+is+Mohamed+Adel+from+the+outer+space)](https://git.io/typing-svg) </div>
 
 - 🌱 I’m currently learning **JavaScript, Java, And Python.**
 
