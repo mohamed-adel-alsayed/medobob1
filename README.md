@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medobob1&" alt="medobob1" /></p>
 
-<div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=676DF7&lines=Hello+my+name+is+Mohamed+Adel;I'm+in+love+with+programming;I+started+programming+3+years+ago;I+have+experience+in+mant+programming+languages;Such+as+C%2C+C%2B%2B%2C+JavaScript%2C+Java;But+I+mostly+experienced+in+C%2B%2B;This+is+Mohamed+Adel+from+the+outer+space)](https://git.io/typing-svg) </div>
+<p align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=676DF7&lines=Hello+my+name+is+Mohamed+Adel;I'm+in+love+with+programming;I+started+programming+3+years+ago;I+have+experience+in+mant+programming+languages;Such+as+C%2C+C%2B%2B%2C+JavaScript%2C+Java;But+I+mostly+experienced+in+C%2B%2B;This+is+Mohamed+Adel+from+the+outer+space)](https://git.io/typing-svg) </p>
