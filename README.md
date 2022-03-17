@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Adel</h1>
 <h3 align="center">A normal guy who fell in love with programming</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=676DF7&lines=Hello+my+name+is+Mohamed+Adel;I'm+in+love+with+programming;I+started+programming+3+years+ago;I+have+experience+in+mant+programming+languages;Such+as+C%2C+C%2B%2B%2C+JavaScript%2C+Java;But+I+mostly+experienced+in+C%2B%2B;This+is+Mohamed+Adel+from+the+outer+space)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medobob1&label=Profile%20views&color=0e75b6&style=flat" alt="medobob1" /> </p>
 
@@ -31,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medobob1&show_icons=true&locale=en" alt="medobob1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medobob1&" alt="medobob1" /></p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=676DF7&lines=Hello+my+name+is+Mohamed+Adel;I'm+in+love+with+programming;I+started+programming+3+years+ago;I+have+experience+in+mant+programming+languages;Such+as+C%2C+C%2B%2B%2C+JavaScript%2C+Java;But+I+mostly+experienced+in+C%2B%2B;This+is+Mohamed+Adel+from+the+outer+space)](https://git.io/typing-svg)
