@@ -19,7 +19,7 @@
 <a href="https://dev.to/https://dev.to/medobob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/medobob" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-adel-73200519a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-adel-73200519a/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/medobob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="medobob" height="30" width="40" /></a>
-<a href="https://discord.gg/Medobob#6773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Medobob#6773" height="30" width="40" /></a>
+<a href="discordapp.com/users/689231146591977483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Medobob#6773" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
