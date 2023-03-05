@@ -1,34 +1,69 @@
-<h1 align="center">Hi 👋, I'm Mohamed Adel</h1>
-<h3 align="center">A normal guy who fell in love with programming</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=medobob1/medobob1" alt="medobob1">    
+<!-- [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&width=435&lines=Howdy%2C+and+welcome+to+my+profile+%F0%9F%98%81;My+name+is+Mohamed+Adel+but+you+call+me+Medo+%F0%9F%98%8A;I'm+a+programming+polyglot+%E2%9D%A4;Who+loves+to+speak+in+the+languages+of+the+digital+world+%F0%9F%98%8E;I+love+all+kinds+of+Software+Development+%F0%9F%A4%97)](https://git.io/typing-svg)       -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=676DF7&lines=Hello+my+name+is+Mohamed+Adel;I'm+in+love+with+programming;I+started+programming+3+years+ago;I+have+experience+in+mant+programming+languages;Such+as+C%2C+C%2B%2B%2C+JavaScript%2C+Java;But+I+mostly+experienced+in+C%2B%2B;This+is+Mohamed+Adel+from+the+outer+space)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+  </a>
+</h1>
+   
+###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+<p align="center">
+  Hi, I'm Mohamed Adel, Software Engineer from Egypt
+  <br>
+  <br>
+  👨‍🎓 I'm currently studying for a Bachelor's degree in Computer Science in the Egyptian E-Learning University
+  <br>
+  💻 I love Writing code, Software and learning anything about them 😊
+  <br>
+  📫 How to reach me 👇
+</p>
+<p align="center"> <a href="https://www.linkedin.com/in/mohamed-adel-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:moadelwo77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//201287231102"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> <a href="https://www.facebook.com/mohamedadeldev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a> <a href="https://github.com/medobob1/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a></p>
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
+<p align="center">
+  <code><img title="C" height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
+  <code><img title="C++" height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+  <code><img title="C#" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"></code>
+  <code><img title="Java" height="25" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Faenza-text-x-java.svg"></code>
+  <code><img title="Javascript" height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Rubik%27s_cube.svg"></code>
+  <code><img title="HTML5" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
+  <code><img title="CSS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
+  <code><img title="Git" height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"></code>
+  <code><img title="GitHub" height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg"></code>
+</p>
+<hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medobob1&label=Profile%20views&color=0e75b6&style=flat" alt="medobob1" /> </p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medobob1" alt="medobob1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Java, And Python.**
-
-- 💬 Ask me about **C, C++, HTML, And CSS**
-
-- 📫 How to reach me **moadelwo77@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/medobob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="medobob" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/medobob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/medobob" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-adel-73200519a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-adel-73200519a/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/medobob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="medobob" height="30" width="40" /></a>
-<a href="discordapp.com/users/689231146591977483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Medobob#6773" height="30" width="40" /></a>
+<p align="center">
+<a href="https://github.com/medobob1/">
+      <img width=325  src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medobob1)](https://github.com/anuraghazra/github-readme-stats)" />
+ </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<hr>
+<h2 align="center">💹 Most Popular Repos 💹</h2>
+<br>
+<p align="center">
+<a href="https://github.com/medobob1/Medobob">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=medobob1&repo=Medobob&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+  
+<a href="https://github.com/medobob1/Contact-app">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=medobob1&repo=Contact-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medobob1&show_icons=true&locale=en&layout=compact" alt="medobob1" /></p>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medobob1&show_icons=true&locale=en" alt="medobob1" /></p>
+<hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medobob1&" alt="medobob1" /></p>
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=medobob1" alt="medobob1"/>       
+</p>
