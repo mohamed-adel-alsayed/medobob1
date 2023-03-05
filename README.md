@@ -42,7 +42,6 @@
  </a>
 </p>
 
-<hr>
 <h2 align="center">💹 Most Popular Repos 💹</h2>
 <br>
 <p align="center">
