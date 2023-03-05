@@ -35,7 +35,6 @@
   <code><img title="Microsoft Visual Studio" height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"></code>
   <code><img title="GitHub" height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg"></code>
 </p>
-<hr>
 
 <p align="center">
 <a href="https://github.com/medobob1/">
