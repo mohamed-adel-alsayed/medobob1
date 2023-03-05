@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=medobob1/medobob1" alt="medobob1">    
-<!-- [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&width=435&lines=Howdy%2C+and+welcome+to+my+profile+%F0%9F%98%81;My+name+is+Mohamed+Adel+but+you+call+me+Medo+%F0%9F%98%8A;I'm+a+programming+polyglot+%E2%9D%A4;Who+loves+to+speak+in+the+languages+of+the+digital+world+%F0%9F%98%8E;I+love+all+kinds+of+Software+Development+%F0%9F%A4%97)](https://git.io/typing-svg)       -->
+<!-- [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&width=435&lines=Howdy%2C+and+welcome+to+my+profile+%F0%9F%98%81;My+name+is+Mohamed+Adel+but+you+call+me+Medo+%F0%9F%98%8A;I'm+a+programming+polyglot+%E2%9D%A4;Who+loves+to+speak+in+the+languages+of+the+digital+world+%F0%9F%98%8E;I+love+all+kinds+of+Software+Development+%F0%9F%A4%97)](https://git.io/typing-svg)  -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
