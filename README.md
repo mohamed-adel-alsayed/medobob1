@@ -37,11 +37,6 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-
-
 <p align="center">
 <a href="https://github.com/medobob1/">
       <img width=325  src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medobob1)](https://github.com/anuraghazra/github-readme-stats)" />
