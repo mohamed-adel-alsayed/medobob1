@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&width=435&lines=Howdy%2C+and+welcome+to+my+profile+%F0%9F%98%81;My+name+is+Mohamed+Adel+but+you+call+me+Medo+%F0%9F%98%8A;I'm+a+programming+polyglot+%E2%9D%A4;Who+loves+to+speak+in+the+languages+of+the+digital+world+%F0%9F%98%8E;I+love+all+kinds+of+Software+Development+%F0%9F%A4%97">
   </a>
 </h1>
    
